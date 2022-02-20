@@ -26,7 +26,7 @@ switch (cmd) {
   case 'week':
     d = new Date()
     for (i=0;i<7;i++) { 
-      console.log("The wordle for " + d.toString() + "is: " + GetWord(d));
+      console.log("The wordle for " + d.toString() + " is: " + GetWord(d));
       d.setDate(d.getDate() + 1)
     }
     break;
