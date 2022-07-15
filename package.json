@@ -1,0 +1,22 @@
+{
+  "name": "wordlesolver",
+  "version": "1.0.0",
+  "description": "solve wordle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejcx/wordlesolver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ejcx/wordlesolver/issues"
+  },
+  "homepage": "https://github.com/ejcx/wordlesolver#readme",
+  "dependencies": {
+    "index.js": "^0.0.3"
+  }
+}
